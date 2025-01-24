@@ -35,6 +35,4 @@ Welcome to my GitHub profile! I'm a Systems Development student at ETEC Albert E
   
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurr-rosante&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-rosante&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurr-rosante&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-rosante&layout=compact&theme=radical)
