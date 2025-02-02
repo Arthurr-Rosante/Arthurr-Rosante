@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> Hi, I'm Arthur!
 
-Welcome to my GitHub profile! I'm a Systems Development student at ETEC Albert Einstein with 3-years worth of experience. My ultimate goal is to use my skills to take my and other's ideas off the ground while learning new things and having fun.
+Welcome to my GitHub profile! I'm a Systems Development student at ETEC Albert Einstein with 3-years worth of experience. My ultimate goal is to use my skills to take my ideas and those of others off the ground while learning new things and having fun.
 
 - 🌱 **I’m currently learning:**
 
