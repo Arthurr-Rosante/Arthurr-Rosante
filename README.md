@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a Systems Development student at ETEC Albert E
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![React Native](img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Expo](https://img.shields.io/badge/Expo-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)
 
   
 - 🚀 Technologies I Use
