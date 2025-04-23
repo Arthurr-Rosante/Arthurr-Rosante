@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a Systems Development student at ETEC Albert E
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - 🔭 **I’m working on:**
-  My TCC school Project - **Studify** (which will soon be available as a repo).
+  My TCC school Project - **FootStep** (which will soon be available as a repo).
 
 - 📫 **How to reach me:**
   Email: [arrosante@gmail.com]
